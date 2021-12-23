@@ -1,4 +1,3 @@
-# レベル0
-xmas
+# xmas
 
 ![ほげ](./hoge.png)
